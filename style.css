@@ -1,0 +1,43 @@
+body{
+     background-color:whitesmoke;
+    }
+    #button {
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      
+    }
+    #button1 {
+      border: 3px solid black;
+      border-radius: 30%;
+      background-color:royalblue;
+    }
+
+#h1{
+  font-family: Bodoni MT ;
+    color:white;
+    font-size:50px;
+    font-weight: 900;
+
+    }
+    #ab{
+      color:black;
+      font-size:20px;
+      font-weight: 500;
+  
+      }
+    #h1bg{
+      background-color: blue;
+      border: 1px solid red;
+    }
+    #img{
+      margin: 5px 5px;
+      border: 3px solid blue;
+      border-radius: 30%;
+    }
+    #logo{
+      margin-left:  55px;
+    }
